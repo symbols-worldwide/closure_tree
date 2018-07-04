@@ -1,5 +1,8 @@
 # Changelog
 
+### 7.0.0
+Closure Tree is now tested against Rails 5.2
+
 ### 6.6.0
 
 Closure Tree is now tested against Rails 5.1, and just passed 50 contributors and
